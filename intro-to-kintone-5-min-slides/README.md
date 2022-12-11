@@ -1,4 +1,9 @@
-# Welcome to [Slidev](https://github.com/slidevjs/slidev)!
+# Notes on the Slidev setup
+
+npm run build -- --base slidev-example/dist/
+npm run build -- --base kintone-for-hackathon/dist/
+
+## Welcome to [Slidev](https://github.com/slidevjs/slidev)!
 
 To start the slide show:
 

@@ -4,11 +4,15 @@
   "scripts": {
     "build": "slidev build",
     "dev": "slidev --open",
-    "export": "slidev export"
+    "export": "slidev export",
+    "png": "slidev export --format png",
+    "format": "slidev format"
   },
   "dependencies": {
     "@slidev/cli": "^0.37.1",
     "@slidev/theme-default": "*",
-    "@slidev/theme-seriph": "*"
+    "@slidev/theme-seriph": "*",
+    "lightvue": "^0.5.1",
+    "slidev-theme-light-icons": "^1.0.2"
   }
 }
