@@ -1,5 +1,5 @@
 {
-  "name": "intro-to-kintone-5-min",
+  "name": "intro-to-kintone-5-min-slides",
   "private": true,
   "scripts": {
     "build": "slidev build",
