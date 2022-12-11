@@ -5,9 +5,9 @@ layout: image
 image: ./Kintone/Red_Background_Right.png
 download: true
 fonts:
-  sans: Nunito-ExtraBold
-  serif: Nunito Sans
-  mono: Fira Code
+  sans: Raleway
+  serif: Raleway
+  mono: Raleway
 ---
 
 <div class="mb-4 absolute top-10 left-100" style="text-align:right;">
@@ -50,6 +50,39 @@ fonts:
   </span>
 </div>
 
+---
+layout: image-left-bar
+image: ./background/water-caleb-george-Lh6X0gXu7eg-unsplash.png
+---
+
+<div class="text-5xl text-primary dark:text-primary top-1" style="font-weight:500;user-select:all;" >
+  Overview <light-icon icon="color-swatch"/>
+  <br><br>
+</div>
+
+
+<table style="table-layout:fixed; text-align: center;user-select:all;">
+  <thead>
+    <tr>
+      <th style="text-align: center;font-size:30px;">What is Kintone?</th>
+      <th style="text-align: center;font-size:30px;">How to Use Kintone?</th>
+      <th style="text-align: center;font-size:30px;">Let's Get Started!</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td width="25%" style="font-size:25px;">Web Database</td>
+      <td width="25%" style="font-size:25px;">Example Projects</td>
+      <td width="25%" style="font-size:25px;">When the fun starts</td>
+    </tr>
+    <tr>
+      <td><br>🤔</td>
+      <td><br>🧐</td>
+      <td><br>💪</td>
+      <!-- <td><br><img src="/kintone_for_hackathons/GenjiFujimori.png" alt="Pic of GenjiFujimori" style="width: 60%;margin-left: auto;margin-right: auto;"></td> -->
+    </tr>
+  </tbody>
+</table>
 
 ---
 layout: basic
